@@ -1105,7 +1105,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #18bc9c;
+  color: #7326b8;
   text-decoration: underline;
 }
 a:focus {
@@ -4055,7 +4055,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav .open > a:hover,
 .nav .open > a:focus {
   background-color: #ecf0f1;
-  border-color: #18bc9c;
+  border-color: #7326b8;
 }
 .nav .nav-divider {
   height: 1px;
@@ -4552,7 +4552,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #18bc9c;
+  color: #7326b8;
   background-color: transparent;
 }
 .navbar-default .navbar-text {
@@ -4563,7 +4563,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #18bc9c;
+  color: #7326b8;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
@@ -7062,4 +7062,3 @@ a.list-group-item-danger.active:focus {
 .popover {
   color: #2c3e50;
 }
-
