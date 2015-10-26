@@ -1,4 +1,4 @@
-/*!
+/
  * bootswatch v3.3.5
  * Homepage: http://bootswatch.com
  * Copyright 2012-2015 Thomas Park
@@ -3203,8 +3203,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success:hover {
   color: #ffffff;
-  background-color: ##7326b8;
-  border-color: ##7326b8;
+  background-color: #7326b8;
+  border-color: #7326b8;
 }
 .btn-success:active,
 .btn-success.active,
