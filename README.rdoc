@@ -1,3 +1,3 @@
 == Joseph Ferrairo
 
-This is my personal static website. I made it using the [Front End Generators](http://github.com/MrPowers/frontend-generators) gem with a Freelancer bootstrap theme.
+This is my personal static website. I made it using the Front End Generators gem with a Freelancer bootstrap theme.
